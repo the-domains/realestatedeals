@@ -1,0 +1,28 @@
+name: RealEstateDeals
+favicon: null
+layout_spectrum: 0.39561666757799685
+typography_spectrum: 0.9671872213948518
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.33438828866928816
+  lightness: 0.15738710341975093
+  saturation: 0.638090021442622
+  rhythmicContrast: 0.567676876205951
+purpose: []
