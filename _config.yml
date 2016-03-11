@@ -2,6 +2,7 @@ name: RealEstateDeals
 favicon: null
 layout_spectrum: 0.99001
 typography_spectrum: 0.49565
+title: Real Estate Deals
 cta:
   domain: null
   bucket: null
