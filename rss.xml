@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[RealEstateDeals]]></title>
-        <description><![CDATA[RealEstateDeals]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Real Estate Deals]]></title>
+        <description><![CDATA[Real Estate Deals]]></description>
+        <link>https://thegrid.ai/realestatedeals/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 23:51:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 22:27:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/realestatedeals/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Buy a Property: http://propertiesforsaleintrenton.com/</p>]]></description>
+            <link>https://thegrid.ai/realestatedeals/buy-a-property-httppropertiesforsaleintrentoncom/index.html</link>
+            <guid isPermaLink="false">da8a06b9-48d5-4164-9085-af439ac69c98</guid>
+            <pubDate>Mon, 14 Mar 2016 22:27:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>117 Sweets Ave., Trenton, NJ</p>]]></description>
-            <link>undefined117-sweets-ave-trenton-nj/index.html</link>
+            <link>https://thegrid.ai/realestatedeals/117-sweets-ave-trenton-nj/index.html</link>
             <guid isPermaLink="false">ca6c0911-34b8-42c7-bef7-948a5e29cceb</guid>
             <pubDate>Fri, 11 Mar 2016 23:50:53 GMT</pubDate>
         </item>
